@@ -1,0 +1,11 @@
+{
+    "include": [
+        "./src/*"
+    ],
+    "compilerOptions": {
+        "lib": [
+            "dom"
+        ],
+        "jsx": "react-jsx"
+    }
+}
